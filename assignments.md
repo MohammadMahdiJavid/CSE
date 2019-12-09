@@ -4,6 +4,10 @@ title: Assignments
 permalink: /assignments/
 ---
 
+1- simulation on NS2
+2- Installing and Initializing Firewalls
+3- Work with cryptography softwares
+
 <ul id="archive">
 {% for asg in site.assignments reversed %}
       <li class="archiveposturl" style="background: transparent">
