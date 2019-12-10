@@ -59,8 +59,9 @@ permalink: /syllabus/
 
 ## <bold>Secure Network Architecture</bold> 
 
+---
 
-## Grading Policy
+#### Grading Policy
    * 20%: Midterm Exam
    * 45%: Final Exam
    * 10%: Final Project
