@@ -3,11 +3,9 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
-<!-- 
 
-## 1- simulation on NS2 <br>
-## 2- Installing and Initializing Firewalls <br>
-## 3- Working with Encryption and Cryptography Softwares <br> -->
+You can download the assignments here (in PDF format). Also check out assignment's pages for any additional info.
+Use [this](../static_files/docs/AzureDevOpsAccount.pdf) guide to create Azure DevOps account and [this](../static_files/docs/AdminAccess.pdf) guide to give me and TAs admin access.
 
 <ul id="archive">
 {% for asg in site.assignments reversed %}
@@ -22,3 +20,9 @@ permalink: /assignments/
       </li>
 {% endfor %}
 </ul>
+
+<!-- 
+
+## 1- simulation on NS2 <br>
+## 2- Installing and Initializing Firewalls <br>
+## 3- Working with Encryption and Cryptography Softwares <br> -->
