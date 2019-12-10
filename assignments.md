@@ -4,9 +4,9 @@ title: Assignments
 permalink: /assignments/
 ---
 
-1- simulation on NS2
-2- Installing and Initializing Firewalls
-3- Work with cryptography softwares
+## 1- simulation on NS2 <br>
+## 2- Installing and Initializing Firewalls <br>
+## 3- Work with cryptography softwares <br>
 
 <ul id="archive">
 {% for asg in site.assignments reversed %}
