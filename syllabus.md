@@ -58,6 +58,8 @@ permalink: /syllabus/
 </ul>
 
 ## <bold>Secure Network Architecture</bold> 
+<br>
+<br>
 
 ---
 
@@ -68,3 +70,5 @@ permalink: /syllabus/
    * 15%: Quizzes
    * 10%: Exercises
    * +10%: Papers or Conferences
+
+---
