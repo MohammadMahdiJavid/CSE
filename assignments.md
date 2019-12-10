@@ -5,7 +5,7 @@ permalink: /assignments/
 ---
 
 You can download the assignments here (in PDF format). Also check out assignment's pages for any additional info.
-Use [this](../static_files/docs/AzureDevOpsAccount.pdf) guide to create Azure DevOps account and [this](../static_files/docs/AdminAccess.pdf) guide to give me and TAs admin access.
+
 
 <ul id="archive">
 {% for asg in site.assignments reversed %}
