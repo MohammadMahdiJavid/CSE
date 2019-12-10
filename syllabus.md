@@ -61,7 +61,7 @@ permalink: /syllabus/
 
 ---
 
-#### Grading Policy
+## Grading Policy
    * 20%: Midterm Exam
    * 45%: Final Exam
    * 10%: Final Project
