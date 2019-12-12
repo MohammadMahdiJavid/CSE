@@ -4,6 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 ---
+---
 <bold><big><big><big><a href="https://github.com/mahdi-javid/computer-systems-security/raw/master/download/SYLLABUS.pdf">Download Syllabus PDF file</a></big></big></big></bold> 
 <br>
 
@@ -17,17 +18,20 @@ permalink: /syllabus/
   <li>Network Vulnerabilities</li>
   <li>Network Security Mechanism</li>
 </ul>
+<br>
 
 ##  <bold>Encryption in Network Security</bold> 
 <ul>
   <li>Link layer Encryption VS End-to-End Encryption</li>
 </ul>
+<br>
 
 ##  <bold>Control Network Access</bold> 
 <ul>
   <li>Type of Firewalls</li>
   <li>How to arrange Firewalls</li>
 </ul>
+<br>
 
 ##  <bold>Transmitted Data security</bold> 
 <ul>
@@ -35,12 +39,14 @@ permalink: /syllabus/
   <li>Virtual Private Networks (VPN)</li>
   <li>Security Principles in IPv6</li>
 </ul>
+<br>
 
 ## <bold>Wireless Networks Security</bold> 
 <ul>
   <li>Wireless LAN Networks security</li>
   <li>WiMAX Networks Security</li>
 </ul>
+<br>
 
 ##  <bold>Transport Layer Security</bold> 
 <ul>
@@ -49,6 +55,7 @@ permalink: /syllabus/
   <li>HTTPS protocol</li>
   <li>SSH protocol</li>
 </ul>
+<br>
 
 ##  <bold>Email Security</bold> 
 <ul>
@@ -56,21 +63,25 @@ permalink: /syllabus/
   <li>S/MIME protocol</li>
   <li>DKIM protocol</li>
 </ul>
+<br>
 
 ## <bold>Principles in NGN Networks</bold> 
+<br>
 
 ## <bold>Network Analyzers System</bold> 
 <ul>
   <li>Intrusion Detection and Prevention Systems (IDS/IPS)</li>
   <li>Honeypots & Honeynets</li>
 </ul>
+<br>
 
 ## <bold>Secure Network Architecture</bold> 
 <br>
 <br>
 
 ---
-
+---
+<br>
 ## Grading Policy
    * 20%: Midterm Exam
    * 45%: Final Exam
@@ -78,5 +89,3 @@ permalink: /syllabus/
    * 15%: Quizzes
    * 10%: Exercises
    * +10%: Papers or Conferences
-
----
