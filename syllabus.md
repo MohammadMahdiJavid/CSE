@@ -3,6 +3,10 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
+<bold><bold><a href="https://github.com/mahdi-javid/computer-systems-security/raw/master/download/SYLLABUS.pdf">Download Syllabus</a></bold></bold> 
+---
+<br>
+
 ##  <bold>Introduction to Network-security</bold> 
 <ul>
   <li>Threats and Network attacks</li>
