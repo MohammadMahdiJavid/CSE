@@ -5,6 +5,7 @@ permalink: /syllabus/
 ---
 ---
 ---
+<br>
 <bold><big><big><big><a href="https://github.com/mahdi-javid/computer-systems-security/raw/master/download/SYLLABUS.pdf">Download Syllabus PDF file</a></big></big></big></bold> 
 <br>
 
@@ -12,7 +13,7 @@ permalink: /syllabus/
 ---
 <br>
 
-##  <bold>Introduction to Network-security</bold> 
+##  <bold>1-Introduction to Network-security</bold> 
 <ul>
   <li>Threats and Network attacks</li>
   <li>Network Vulnerabilities</li>
@@ -20,20 +21,20 @@ permalink: /syllabus/
 </ul>
 <br>
 
-##  <bold>Encryption in Network Security</bold> 
+##  <bold>2-Encryption in Network Security</bold> 
 <ul>
   <li>Link layer Encryption VS End-to-End Encryption</li>
 </ul>
 <br>
 
-##  <bold>Control Network Access</bold> 
+##  <bold>3-Control Network Access</bold> 
 <ul>
   <li>Type of Firewalls</li>
   <li>How to arrange Firewalls</li>
 </ul>
 <br>
 
-##  <bold>Transmitted Data security</bold> 
+##  <bold>4-Transmitted Data security</bold> 
 <ul>
   <li>IP security and IPSec protocol</li>
   <li>Virtual Private Networks (VPN)</li>
@@ -41,14 +42,14 @@ permalink: /syllabus/
 </ul>
 <br>
 
-## <bold>Wireless Networks Security</bold> 
+## <bold>5-Wireless Networks Security</bold> 
 <ul>
   <li>Wireless LAN Networks security</li>
   <li>WiMAX Networks Security</li>
 </ul>
 <br>
 
-##  <bold>Transport Layer Security</bold> 
+##  <bold>6-Transport Layer Security</bold> 
 <ul>
   <li>Principles of Web Security</li>
   <li>SSL & TLS protocols</li>
@@ -57,7 +58,7 @@ permalink: /syllabus/
 </ul>
 <br>
 
-##  <bold>Email Security</bold> 
+##  <bold>7-Email Security</bold> 
 <ul>
   <li>PGP protocol</li>
   <li>S/MIME protocol</li>
@@ -65,17 +66,17 @@ permalink: /syllabus/
 </ul>
 <br>
 
-## <bold>Principles in NGN Networks</bold> 
+## <bold>8-Principles in NGN Networks</bold> 
 <br>
 
-## <bold>Network Analyzers System</bold> 
+## <bold>9-Network Analyzers System</bold> 
 <ul>
   <li>Intrusion Detection and Prevention Systems (IDS/IPS)</li>
   <li>Honeypots & Honeynets</li>
 </ul>
 <br>
 
-## <bold>Secure Network Architecture</bold> 
+## <bold>10-Secure Network Architecture</bold> 
 <br>
 <br>
 
