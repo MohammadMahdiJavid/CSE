@@ -6,7 +6,6 @@ permalink: /syllabus/
 ---
 <bold><big><big><big><a href="https://github.com/mahdi-javid/computer-systems-security/raw/master/download/SYLLABUS.pdf">Download Syllabus PDF file</a></big></big></big></bold> 
 <br>
-<br>
 
 ---
 ---
