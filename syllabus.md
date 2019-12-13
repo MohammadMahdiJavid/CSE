@@ -72,6 +72,7 @@ permalink: /syllabus/
 
 <big><big><font color="red"><bold>8-Principles in NGN Networks</bold></font></big></big>
 <br>
+<br>
 
 <big><big><font color="red"><bold>9-Network Analyzers System</bold></font></big></big>
 <ul>
