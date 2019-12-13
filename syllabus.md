@@ -13,28 +13,28 @@ This is some text!
 ---
 <br>
 
-##  <bold>1-Introduction to Network-security</bold> 
+<big><font color="red"><bold>1-Introduction to Network-security</bold></font></big>
 <ul>
-  <li><font color="red">Threats and Network attacks</font></li>
+  <li>Threats and Network attacks</li>
   <li>Network Vulnerabilities</li>
   <li>Network Security Mechanism</li>
 </ul>
 <br>
 
-##  <bold>2-Encryption in Network Security</bold> 
+<big><font color="red"><bold>2-Encryption in Network Security</bold></font></big>
 <ul>
   <li>Link layer Encryption VS End-to-End Encryption</li>
 </ul>
 <br>
 
-##  <bold>3-Control Network Access</bold> 
+<big><font color="red"><bold>3-Control Network Access</bold></font></big>
 <ul>
   <li>Type of Firewalls</li>
   <li>How to arrange Firewalls</li>
 </ul>
 <br>
 
-##  <bold>4-Transmitted Data security</bold> 
+<big><font color="red"><bold>4-Transmitted Data security</bold></font></big>
 <ul>
   <li>IP security and IPSec protocol</li>
   <li>Virtual Private Networks (VPN)</li>
@@ -42,14 +42,14 @@ This is some text!
 </ul>
 <br>
 
-## <bold>5-Wireless Networks Security</bold> 
+<big><font color="red"><bold>5-Wireless Networks Security</bold></font></big>
 <ul>
   <li>Wireless LAN Networks security</li>
   <li>WiMAX Networks Security</li>
 </ul>
 <br>
 
-##  <bold>6-Transport Layer Security</bold> 
+<big><font color="red"><bold>6-Transport Layer Security</bold></font></big>
 <ul>
   <li>Principles of Web Security</li>
   <li>SSL & TLS protocols</li>
@@ -58,7 +58,7 @@ This is some text!
 </ul>
 <br>
 
-##  <bold>7-Email Security</bold> 
+<big><font color="red"><bold>7-Email Security</bold></font></big>
 <ul>
   <li>PGP protocol</li>
   <li>S/MIME protocol</li>
@@ -66,17 +66,17 @@ This is some text!
 </ul>
 <br>
 
-## <bold>8-Principles in NGN Networks</bold> 
+<big><font color="red"><bold>8-Principles in NGN Networks</bold></font></big>
 <br>
 
-## <bold>9-Network Analyzers System</bold> 
+<big><font color="red"><bold>9-Network Analyzers System</bold></font></big>
 <ul>
   <li>Intrusion Detection and Prevention Systems (IDS/IPS)</li>
   <li>Honeypots & Honeynets</li>
 </ul>
 <br>
 
-## <bold>10-Secure Network Architecture</bold> 
+<big><font color="red"><bold>10-Secure Network Architecture</bold></font></big>
 <br>
 <br>
 
