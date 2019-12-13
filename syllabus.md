@@ -79,7 +79,6 @@ permalink: /syllabus/
   <li>Intrusion Detection and Prevention Systems (IDS/IPS)</li>
   <li>Honeypots & Honeynets</li>
 </ul>
-<br>
 
 <big><big><font color="red"><bold>10-Secure Network Architecture</bold></font></big></big>
 <br>
