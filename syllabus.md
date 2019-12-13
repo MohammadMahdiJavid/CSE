@@ -44,6 +44,7 @@ permalink: /syllabus/
   <li>Security Principles in IPv6</li>
 </ul>
 <br>
+<br>
 
 <big><big><font color="red"><bold>5-Wireless Networks Security</bold></font></big></big>
 <ul>
