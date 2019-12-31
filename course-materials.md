@@ -15,6 +15,6 @@ permalink: /course-materials/
 <p>
 Cryptography and Network Security: Principles and Practice (6th Edition) by William Stallings
 <a href="https://github.com/mahdi-javid/computer-systems-security/raw/master/download/(DR.zeinab%20Movahedi)%5BWilliam_Stallings%5D_Cryptography_and_Network_Security.pdf">
-<img border="0" alt="Cryptography and Network Security: Principles and Practice (6th Edition) by William Stallings" src="" width="100" height="100">
+<img border="0" alt="Cryptography and Network Security: Principles and Practice (6th Edition) by William Stallings" src="https://github.com/mahdi-javid/computer-systems-security/blob/master/download/Cryptography%20and%20Network%20Security%20Principles%20and%20Practice%20(6th%20Edition)%20by%20William%20Stallings.jpg" width="100" height="100">
 </a>
 </p>
