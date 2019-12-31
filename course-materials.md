@@ -8,7 +8,7 @@ permalink: /course-materials/
 <br>
 
 
-<big><font color="red"><p> 1- Cryptography and Network Security: Principles and Practice Books by William Stallings </font><big><br><br>
+<big><font color="red"><p> 1- Cryptography and Network Security: Principles and Practice Books by William Stallings </p></font><big><br><br>
 
 <a href="https://github.com/mahdi-javid/computer-systems-security/blob/master/download/7th%20Edition-cryptography%20and%20network%20security%20stallings.pdf">
 <img border="0" alt="Cryptography and Network Security: Principles and Practice (7th Edition) by William Stallings" src="https://github.com/mahdi-javid/computer-systems-security/blob/master/download/Cryptography%20and%20Network%20Security%20Principles%20and%20Practice%20(7th%20Edition)%20by%20William%20Stallings.jpg?raw=true" width="180" height="250" hspace="50">
