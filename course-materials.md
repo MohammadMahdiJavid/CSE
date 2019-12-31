@@ -28,3 +28,4 @@ permalink: /course-materials/
 <a  href="https://github.com/mahdi-javid/computer-systems-security/raw/master/download/(DR.zeinab%20Movahedi)%5BWilliam_Stallings%5D_Network_Security_Essentials__A.pdf">
 <img border="0" alt="Network Security Essentials: Applications and Standards (4thEdition) by William Stallings" src="https://github.com/mahdi-javid/computer-systems-security/blob/master/download/Network%20Security%20Essentials%20Applications%20and%20Standards%20(4thEdition)%20by%20William%20Stallings.jpg?raw=true" width="180" height="250" hspace="50">
 </a>
+<br><br>
