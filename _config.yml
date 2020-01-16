@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: computer systems security
-course_description:  
+Overview:  
 This course provides a deep and comprehensive study of the security principles and practices of
 information systems. Topics include basic information security concepts, common attacking
 techniques, common security policies, basic cryptographic tools, authentication, access control,
