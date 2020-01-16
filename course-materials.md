@@ -25,14 +25,14 @@ permalink: /course-materials/
         </div>
         {% endfor %}
 <br><br><br><br><br><br><br><br><br><br><br><br>
-        <h2>Extra Books</h2>
+        <!-- <h2>Extra Books</h2>
         {% for resource in site.data.course-material.good_resources %}
         <div class="Course-materual--image-cover-container">
             <img src="{{ resource.pic | prepend: site.baseurl }}" class="Course-material--image-cover">
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
         {% endfor %}
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br> -->
     </div>
 </div>
 
