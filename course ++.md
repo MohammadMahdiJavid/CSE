@@ -4,8 +4,19 @@ title: Course ++
 permalink: /Coursepp/
 ---
 
-<center><h1>MIT Computer Systems Security</h1></center>
-<h3><bold>Lecture 1:</bold> Introduction, Threat Models</h3>
+<div style="width:100%; float: left">
+    <div class="Course-plusplus-gallary">
+        <h2>    Main Books</h2>
+        {% for resource in site.data.course-material.main_resources %}
+        <div class="Coursepp-materual--image-cover-container">
+            <img src="{{ resource.pic | prepend: site.baseurl }}" class="Course-pp--image-cover">
+            <p><a href="{{resource.address}}">{{resource.name}}</a></p>
+        </div>
+        {% endfor %}
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<!-- <center><h1>MIT Computer Systems Security</h1></center>
+<h3><bold>Lecture 1:</bold> Introduction, Threat Models</h3> -->
 <!-- <iframe src="" height=325 width=545 frameborder=0></iframe> -->
 
 <!-- <video width="400" controls>
@@ -15,4 +26,4 @@ permalink: /Coursepp/
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/GqmQg-cszw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<div style="width: 100%;">    <div style="width: 100%; padding-top: 56.25%; position: relative;">        <iframe style="position: absolute; width: 100%; height: 100%; top: 0; right: 0; border: none" src="https://www.dideo.ir/pre_embed/v/yt/GqmQg-cszw4"                allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  allow="accelerometer; gyroscope; picture-in-picture; autoplay; fullscreen; encrypted-media" frameborder="0"></iframe></div></div>
+<!-- <div style="width: 100%;">    <div style="width: 100%; padding-top: 56.25%; position: relative;">        <iframe style="position: absolute; width: 100%; height: 100%; top: 0; right: 0; border: none" src="https://www.dideo.ir/pre_embed/v/yt/GqmQg-cszw4"                allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  allow="accelerometer; gyroscope; picture-in-picture; autoplay; fullscreen; encrypted-media" frameborder="0"></iframe></div></div> -->

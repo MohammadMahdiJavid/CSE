@@ -15,14 +15,14 @@ main_resources:
     pic: /_images/Course-material/computernetworkingatop-downapproach6thedition-1-638.jpg
     address: https://github.com/mahdi-javid/computer-systems-security/raw/master/download/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf
       
-good_resources:
-  - name: Code Complet by Steve McConnell
-    pic: /_images/Course-material/SE4.png
-    address: http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf
-  - name: Software Engineering, Modern Approaches by Eric J. Braude and Michael E. Bernstein
-    pic: /_images/Course-material/SE5.png
-    address: https://epdf.pub/software-engineering-modern-approaches.html
-  - name: Engineering Software As A Service An Agile Approach Using Cloud Computing 
-    pic: /_images/Course-material/SE6.png
-    address: https://pdfs.semanticscholar.org/2025/ebbfe2097da9e19f552dd9fa0df6ebbe39dc.pdf
+# good_resources:
+#   - name: Code Complet by Steve McConnell
+#     pic: /_images/Course-material/SE4.png
+#     address: http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf
+#   - name: Software Engineering, Modern Approaches by Eric J. Braude and Michael E. Bernstein
+#     pic: /_images/Course-material/SE5.png
+#     address: https://epdf.pub/software-engineering-modern-approaches.html
+#   - name: Engineering Software As A Service An Agile Approach Using Cloud Computing 
+#     pic: /_images/Course-material/SE6.png
+#     address: https://pdfs.semanticscholar.org/2025/ebbfe2097da9e19f552dd9fa0df6ebbe39dc.pdf
 

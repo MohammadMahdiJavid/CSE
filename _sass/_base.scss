@@ -551,3 +551,24 @@ article table tr th :last-child,
 article table tr td :last-child {
     margin-bottom: 0;
 }
+
+.Course-plusplus-gallary {
+    padding: 0px;
+    display: inline;
+}
+
+.Coursepp-materual--image-cover-container {
+    width: 150px;
+    float: left;
+    text-align: center;
+    margin: 0px 15px;
+}
+
+.Course-pp--image-cover {
+    width: 150px;
+    height: 200px;
+    margin-bottom: 10px;
+
+    object-fit: cover;
+    object-position: center right;
+}
