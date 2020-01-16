@@ -1,0 +1,32 @@
+main_resources:
+  - name: Software Engineering by Ian Sommerville
+    pic: /_images/resourses/SE1.png
+    address: http://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf
+  - name: Beginning Software Engineering by Rod Stephens
+    pic: /_images/resourses/SE2.png
+    address: https://download.e-bookshelf.de/download/0003/4626/55/L-G-0003462655-0006431542.pdf
+  - name: Software Engineering A Practitioner's Approach
+    pic: /_images/resourses/SE3.png
+    address: http://dinus.ac.id/repository/docs/ajar/RPL-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
+
+good_resources:
+  - name: Code Complet by Steve McConnell
+    pic: /_images/resourses/SE4.png
+    address: http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf
+  - name: Software Engineering, Modern Approaches by Eric J. Braude and Michael E. Bernstein
+    pic: /_images/resourses/SE5.png
+    address: https://epdf.pub/software-engineering-modern-approaches.html
+  - name: Engineering Software As A Service An Agile Approach Using Cloud Computing 
+    pic: /_images/resourses/SE6.png
+    address: https://pdfs.semanticscholar.org/2025/ebbfe2097da9e19f552dd9fa0df6ebbe39dc.pdf
+
+classic_resources:
+  - name: Design Patterns, Elements of Reusable Object-Oriented Software
+    pic: /_images/resourses/SE7.png
+    address: http://www.grch.com.ar/docs/unlu.poo/Gamma-DesignPatternsIntro.pdf
+  - name: Pragmatic Programmer
+    pic: /_images/resourses/SE8.png
+    address: https://epdf.pub/the-pragmatic-programmer-from-journeyman-to-masterce703e58df938f8cfa46561a8ff0693668147.html
+  - name: The Mythical Man-Month
+    pic: /_images/resourses/SE9.png
+    address: https://umich.instructure.com/files/884126/download?download_frd=1
