@@ -1,15 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: computer systems security
-course_description:  
-This course provides a deep and comprehensive study of the security principles and practices of
-information systems. Topics include basic information security concepts, common attacking
-techniques, common security policies, basic cryptographic tools, authentication, access control,
-software security, operating system security, and legal and ethical issues in information systems
-security.
- Through this course, students shall be able to understand the basic principles and practices in
-information systems security. In particular, understand what the foundational theory is behind
-computer security, what the common threats are, and how to play with the games with attackers.
+Overview: In This course provides a deep and comprehensive study of the security principles and practices of information systems. Topics include basic information security concepts, common attacking techniques, common security policies, basic cryptographic tools, authentication, access control, software security, operating system security, and legal and ethical issues in information systems security. Through this course, students shall be able to understand the basic principles and practices in information systems security. In particular, understand what the foundational theory is behind computer security, what the common threats are, and how to play with the games with attackers.
 course_semester: "Fall 2019"
 description: |
     Instructor: DR. Zeinab Movahedi
