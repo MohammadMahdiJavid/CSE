@@ -107,16 +107,13 @@ permalink: /syllabus/
     <td>Final Project</td>
     <td>10%</td>
   </tr>
-  </tr>
     <tr>
     <td>Quizzes</td>
     <td>15%</td>
   </tr>
-  </tr>
     <tr>
     <td>Exercises</td>
     <td>10%</td>
-  </tr>
   </tr>
     <tr>
     <td>Papers or Conferences</td>
