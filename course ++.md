@@ -7,7 +7,7 @@ permalink: /Coursepp/
 <div style="width:100%; float: left">
     <div class="Course-plusplus-gallary">
         <h2>    Main Books</h2>
-        {% for resource in site.data.course-material.main_resources %}
+        {% for resource in site.data.coursepp.Courses from different Universities %}
         <div class="Coursepp-materual--image-cover-container">
             <img src="{{ resource.pic | prepend: site.baseurl }}" class="Course-pp--image-cover">
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
