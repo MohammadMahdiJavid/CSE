@@ -17,7 +17,7 @@ permalink: /course-materials/
 
 <div style="width:100%; float: left">
     <div class="Course-material-pic-gallary">
-        <h2>Main Books</h2>
+        <h2>    Main Books</h2>
         {% for resource in site.data.course-material.main_resources %}
         <div class="Course-materual--image-cover-container">
             <img src="{{ resource.pic | prepend: site.baseurl }}" class="Course-material--image-cover">
