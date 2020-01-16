@@ -86,15 +86,9 @@ permalink: /syllabus/
 
 ---
 ---
+
 <br><br>
-<!-- <br>
-<font color="red"><big><big> Grading Policy</big></big></font>
-   * : 
-   * : 
-   * 10%: 
-   * 15%: Quizzes
-   * 10%: Exercises
-   * +10%: Papers or Conferences -->
+
 <table>
   <tr>
     <td>Midterm Exam</td>
@@ -104,20 +98,38 @@ permalink: /syllabus/
     <td>Final Exam</td>
     <td>45%</td>
   </tr>
-    <tr>
+  <tr>
     <td>Final Project</td>
     <td>10%</td>
   </tr>
-    <tr>
+  <tr>
     <td>Quizzes</td>
     <td>15%</td>
   </tr>
-    <tr>
+  <tr>
     <td>Exercises</td>
     <td>10%</td>
   </tr>
-    <tr>
+  <tr>
     <td>Papers or Conferences</td>
     <td>+10%</td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+<!--
+ <br>
+<font color="red"><big><big> Grading Policy</big></big></font>
+   * : 
+   * : 
+   * 10%: 
+   * 15%: Quizzes
+   * 10%: Exercises
+   * +10%: Papers or Conferences --> 
