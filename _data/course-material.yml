@@ -1,6 +1,6 @@
 main_resources:
   - name: Cryptography and Network Security Principles and Practice (7th Edition) by William Stallings
-    pic: /_images/Course-material/Cryptography and Network Security Principles and Practice (7th Edition) by William Stallings.jpg.png
+    pic: /_images/Course-material/Cryptography and Network Security Principles and Practice (7th Edition) by William Stallings.jpg
     address: https://github.com/mahdi-javid/CSE/raw/master/download/7th%20Edition-cryptography%20and%20network%20security%20stallings.pdf
   - name: Cryptography and Network Security Principles and Practice (6th Edition) by William Stallings
     pic: /_images/Course-material/Cryptography and Network Security Principles and Practice (6th Edition) by William Stallings.jpg
@@ -8,7 +8,7 @@ main_resources:
   - name: Cryptography and Network Security Principles and Practice (5th Edition) by William Stallings
     pic: /_images/Course-material/Cryptography and Network Security Principles and Practice (5th Edition) by William Stallings.jpg
     address: https://github.com/mahdi-javid/CSE/raw/master/download/(DR.zeinab%20Movahedi)%20Cryptography%20and%20Network%20Security%20Principles%20and%20Practice%20Fifth%20Edition%20by%20William%20Stallings.pdf
-    
+
 good_resources:
   - name: Code Complet by Steve McConnell
     pic: /_images/Course-material/SE4.png
@@ -20,13 +20,3 @@ good_resources:
     pic: /_images/Course-material/SE6.png
     address: https://pdfs.semanticscholar.org/2025/ebbfe2097da9e19f552dd9fa0df6ebbe39dc.pdf
 
-classic_resources:
-  - name: Design Patterns, Elements of Reusable Object-Oriented Software
-    pic: /_images/Course-material/SE7.png
-    address: http://www.grch.com.ar/docs/unlu.poo/Gamma-DesignPatternsIntro.pdf
-  - name: Pragmatic Programmer
-    pic: /_images/Course-material/SE8.png
-    address: https://epdf.pub/the-pragmatic-programmer-from-journeyman-to-masterce703e58df938f8cfa46561a8ff0693668147.html
-  - name: The Mythical Man-Month
-    pic: /_images/Course-material/SE9.png
-    address: https://umich.instructure.com/files/884126/download?download_frd=1
