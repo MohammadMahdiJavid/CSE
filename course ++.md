@@ -10,7 +10,7 @@ permalink: /Coursepp/
         {% for resource in site.data.coursepp.Universities %}
         <div class="Coursepp-materual--image-cover-container">
             <img src="{{ resource.pic | prepend: site.baseurl }}" class="Course-pp--image-cover">
-            <p><a href="{{resource.address}}">{{resource.name}}</a></p>
+            <p text-align:center><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
         {% endfor %}
 <br><br><br><br><br><br><br><br><br><br><br><br>

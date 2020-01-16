@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Course ++
+title: MIT Computer Systems Security
 permalink: /Coursepp/MITComputerSystemsSecurity/
 ---
