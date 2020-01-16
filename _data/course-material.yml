@@ -8,7 +8,13 @@ main_resources:
   - name: Cryptography and Network Security Principles and Practice (5th Edition) by William Stallings
     pic: /_images/Course-material/Cryptography and Network Security Principles and Practice (5th Edition) by William Stallings.jpg
     address: https://github.com/mahdi-javid/CSE/raw/master/download/(DR.zeinab%20Movahedi)%20Cryptography%20and%20Network%20Security%20Principles%20and%20Practice%20Fifth%20Edition%20by%20William%20Stallings.pdf
-
+  - name: Network Security Essentials Applications and Standards (4thEdition) by William Stallings
+    pic: /_images/Course-material/Network Security Essentials Applications and Standards (4thEdition) by William Stallings.jpg
+    address: https://github.com/mahdi-javid/computer-systems-security/raw/master/download/(DR.zeinab%20Movahedi)%5BWilliam_Stallings%5D_Network_Security_Essentials__A.pdf
+  - name: Computer Networking A Top-Down Approach Book by Jim Kurose
+    pic: /_images/Course-material/computernetworkingatop-downapproach6thedition-1-638.jpg
+    address: https://github.com/mahdi-javid/computer-systems-security/raw/master/download/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf
+      
 good_resources:
   - name: Code Complet by Steve McConnell
     pic: /_images/Course-material/SE4.png
