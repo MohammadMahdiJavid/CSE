@@ -7,9 +7,9 @@ description: |
     Instructor: DR. Zeinab Movahedi
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/computer-systems-security" # the subpath of your site, e.g. /blog/
-url: "https://mahdi-javid.github.io/computer-systems-security" # the base hostname & protocol for your site
-syllabus: https://mahdi-javid.github.io/computer-systems-security/syllabus/
+baseurl: "/CSE" # the subpath of your site, e.g. /blog/
+url: "https://mahdi-javid.github.io/CSE" # the base hostname & protocol for your site
+syllabus: https://mahdi-javid.github.io/CSE/syllabus/
 githubdir: 
 
 # Author/user information
