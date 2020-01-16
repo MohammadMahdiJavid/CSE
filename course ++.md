@@ -13,4 +13,6 @@ permalink: /Coursepp/
         Your browser does not support HTML5 video.
       </video> -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GqmQg-cszw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/GqmQg-cszw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<div style="width: 100%;">    <div style="width: 100%; padding-top: 56.25%; position: relative;">        <iframe style="position: absolute; width: 100%; height: 100%; top: 0; right: 0; border: none" src="https://www.dideo.ir/pre_embed/v/yt/GqmQg-cszw4"                allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  allow="accelerometer; gyroscope; picture-in-picture; autoplay; fullscreen; encrypted-media" frameborder="0"></iframe></div></div>
