@@ -8,7 +8,7 @@ permalink: /Coursepp/
     <div class="Course-plusplus-gallary">
         <h2>Courses from different Universities</h2>
         {% for resource in site.data.coursepp.Universities %}
-        <div class="Coursepp-materual--image-cover-container">
+        <div class="Coursepp--image-cover-container">
             <img src="{{ resource.pic | prepend: site.baseurl }}" class="Course-pp--image-cover">
             <p text-align:center><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
