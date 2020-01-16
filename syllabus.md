@@ -86,11 +86,40 @@ permalink: /syllabus/
 
 ---
 ---
-<br>
+<!-- <br>
 <font color="red"><big><big> Grading Policy</big></big></font>
-   * 20%: Midterm Exam
-   * 45%: Final Exam
-   * 10%: Final Project
+   * : 
+   * : 
+   * 10%: 
    * 15%: Quizzes
    * 10%: Exercises
-   * +10%: Papers or Conferences
+   * +10%: Papers or Conferences -->
+<table>
+  <tr>
+    <td>Midterm Exam</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>Final Exam</td>
+    <td>45%</td>
+  </tr>
+    <tr>
+    <td>Final Project</td>
+    <td>10%</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Quizzes</td>
+    <td>15%</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Exercises</td>
+    <td>10%</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Papers or Conferences</td>
+    <td>+10%</td>
+  </tr>
+</table>
