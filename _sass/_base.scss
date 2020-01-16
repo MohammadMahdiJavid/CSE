@@ -416,6 +416,27 @@ a.tosu {
     object-position: center right;
 }
 
+.Course-material-pic-gallary {
+    padding: 0px;
+    display: inline;
+}
+
+.Course-materual--image-cover-container {
+    width: 150px;
+    float: left;
+    text-align: center;
+    margin: 0px 15px;
+}
+
+.Course-material--image-cover {
+    width: 120px;
+    height: 160px;
+    margin-bottom: 10px;
+
+    object-fit: cover;
+    object-position: center right;
+}
+
 .announcement-box {
     padding: 15px;
     margin-bottom: 20px;
