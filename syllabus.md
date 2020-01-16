@@ -86,6 +86,7 @@ permalink: /syllabus/
 
 ---
 ---
+<br><br>
 <!-- <br>
 <font color="red"><big><big> Grading Policy</big></big></font>
    * : 
