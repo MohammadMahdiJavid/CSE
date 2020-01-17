@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MIT Computer Systems Security
+title: 
 permalink: /Coursepp/MITComputerSystemsSecurity/
 ---
 
