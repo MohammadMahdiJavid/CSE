@@ -13,4 +13,4 @@ permalink: /Coursepp/MITComputerSystemsSecurity/
 
 <h4>Description: In this lecture, Professor Zeldovich gives a brief overview of the class, summarizing class organization and the concept of threat models.
 Instructor: Nickolai Zeldovich</h4>
-<a href="Download English-US transcript (PDF)">Download English-US transcript (PDF)</a>
+<a href="https://github.com/mahdi-javid/CSE/raw/master/static_files/MIT/1.pdf">Download English-US transcript (PDF)</a>
