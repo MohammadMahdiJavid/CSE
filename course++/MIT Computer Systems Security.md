@@ -14,8 +14,10 @@ permalink: /Coursepp/MITComputerSystemsSecurity/
 <h4>Description: In this lecture, Professor Zeldovich gives a brief overview of the class, summarizing class organization and the concept of threat models. Instructor: Nickolai Zeldovich</h4>
 <a href="https://github.com/mahdi-javid/CSE/raw/master/static_files/MIT/1.pdf">Download English-US transcript (PDF)</a>
 <br><br>
+
 ---
 ---
+
 <br><br>
 <h3><bold>Lecture 2:</bold> Control Hijacking Attacks</h3>
 
@@ -24,7 +26,9 @@ permalink: /Coursepp/MITComputerSystemsSecurity/
 <h4>Description: In this lecture, Professor Mickens continues the topic of buffer overflows, discussing approaches to such control hijacking attacks. Instructor: James Mickens</h4>
 <a href="https://github.com/mahdi-javid/CSE/raw/master/static_files/MIT/2.pdf">Download English-US transcript (PDF)</a>
 <br><br>
+
 ---
 ---
+
 <br><br>
 
