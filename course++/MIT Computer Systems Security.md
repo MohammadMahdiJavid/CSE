@@ -61,8 +61,10 @@ permalink: /Coursepp/MITComputerSystemsSecurity/1
 
 <button class = "button-coursepp disabled-coursepp"> 1 </button>
 
-<form action="https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2">
+<!-- <form action="https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2">
     <button class = "button-coursepp">2</button>
-</form>
+</form> -->
+
+ <button class = "button-coursepp"><a href="https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2">2</a></button>
 
 </center>
