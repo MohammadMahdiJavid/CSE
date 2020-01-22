@@ -56,5 +56,8 @@ permalink: /Coursepp/MITComputerSystemsSecurity/1
 ---
 ---
 
+<br><br>
+<center>
 <button class = "button-coursepp disabled-coursepp">1</button>
 <button class = "button-coursepp"  onclick='/Coursepp/MITComputerSystemsSecurity/2'>2</button>
+</center>
