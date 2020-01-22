@@ -60,13 +60,30 @@ permalink: /Coursepp/MITComputerSystemsSecurity/1
 <center>
 
 <button class = "button-coursepp disabled-coursepp"> 1 </button>
+<button class = "button-coursepp" onclick="window.location.href = 'mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2'">2</button>
+<button class = "button-coursepp" onclick="window.location.href = 'mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/3'">3</button>
+<button class = "button-coursepp" onclick="window.location.href = 'mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/4'">4</button>
+<button class = "button-coursepp" onclick="window.location.href = 'mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/5'">5</button>
+</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- <form action="https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2">
     <button class = "button-coursepp">2</button>
 </form> -->
-
-<button class = "button-coursepp" 
-onclick="window.location.href = 'mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2'"><a style="color: white; text-align:center;  text-decoration: none; display: inline-block; font-size: 16px;" href ='https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2'>
-2</a></button>
-
-</center>
+<!-- <a style="color: white; text-align:center;  text-decoration: none; display: inline-block; font-size: 16px;" href ='https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2'>
+2</a> -->
