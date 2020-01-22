@@ -65,7 +65,7 @@ permalink: /Coursepp/MITComputerSystemsSecurity/1
     <button class = "button-coursepp">2</button>
 </form> -->
 
-<button class = "button-coursepp"><a href="https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2" style="color: white; text-align:center;  text-decoration: none; display: inline-block; font-size: 16px;">
-2         </a></button>
+<button class = "button-coursepp"><a style="color: white; text-align:center;  text-decoration: none; display: inline-block; font-size: 16px;" href ='https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2'>
+2</a></button>
 
 </center>
