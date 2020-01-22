@@ -73,9 +73,6 @@ Instructor: Nickolai Zeldovich</h4>
 <button class = "button-coursepp" onclick="window.location.href = 'mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/1'">1</button>
 <button class = "button-coursepp" onclick="window.location.href = 'mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2'">2</button>
 <button class = "button-coursepp disabled-coursepp"> 3 </button>
-
-<button class = "button-coursepp" onclick="window.location.href = 'mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/4'">4</button>
-<button class = "button-coursepp" onclick="window.location.href = 'mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/5'">5</button>
 </center>
 
 
