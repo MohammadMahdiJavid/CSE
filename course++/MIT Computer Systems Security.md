@@ -58,6 +58,9 @@ permalink: /Coursepp/MITComputerSystemsSecurity/1
 
 <br><br>
 <center>
+
 <button class = "button-coursepp disabled-coursepp"> 1 </button>
-<button onclick="/Coursepp/MITComputerSystemsSecurity/2" class = "button-coursepp"> 2 </button>
+
+<button onclick="https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/2" class = "button-coursepp"> 2 </button>
+
 </center>
