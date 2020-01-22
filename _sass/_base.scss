@@ -590,3 +590,11 @@ article table tr td :last-child {
   opacity: 0.6;
   cursor: not-allowed;
 }
+
+.button-coursepp:hover {background-color: #008CBA;}
+
+.button-coursepp:active {
+  background-color: #008CBA;;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
