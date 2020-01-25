@@ -5,7 +5,7 @@ title: Network Simulation
 slides: https://github.com/mahdi-javid/CSE/raw/master/static_files/IUST/Network_Simulation.rar
 video: #https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=S26.mp4
 codes: #https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FCode&files=S26.zip
-tldr: 
+tldr: InstallationGuide_NS2, Network_Simulation and tools
 
 
 
