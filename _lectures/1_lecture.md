@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 
+date: 2019-12-24T8:00:00+4:30
 title: Network security course
 slides: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FSlides&files=S26.pdf
 video: #https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=S26.mp4
