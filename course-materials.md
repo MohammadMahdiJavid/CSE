@@ -24,9 +24,13 @@ permalink: /course-materials/
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
         {% endfor %}
-<br><br><br><br><br><br><br><br><br><br><br><br>
     </div>
 </div>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 <div style="width:100%; float: left">
     <div class="Course-material-pic-gallary">
         <h2>MIT Reference materials</h2>
@@ -36,10 +40,10 @@ permalink: /course-materials/
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
         {% endfor %}
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
     </div>
 </div>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
