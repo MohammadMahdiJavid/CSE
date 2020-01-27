@@ -25,6 +25,10 @@ permalink: /course-materials/
         </div>
         {% endfor %}
 <br><br><br><br><br><br><br><br><br><br><br><br>
+    </div>
+</div>
+<div style="width:100%; float: left">
+    <div class="Course-material-pic-gallary">
         <h2>MIT Reference materials</h2>
         {% for resource in site.data.course-material.MIT_Reference_materials %}
         <div class="Course-materual--image-cover-container">
