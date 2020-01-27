@@ -15,7 +15,7 @@ main_resources:
     pic: /_images/Course-material/computernetworkingatop-downapproach6thedition-1-638.jpg
     address: https://github.com/mahdi-javid/computer-systems-security/raw/master/download/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf
       
-MIT_Reference materials:
+MIT_Reference_materials:
   - name: Applied Cryptography 
     pic: /static_files/MIT_reference/1.jpg
     address: https://github.com/mahdi-javid/CSE/raw/master/static_files/MIT_reference/Applied-Cryptography.pdf

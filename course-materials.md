@@ -26,7 +26,7 @@ permalink: /course-materials/
         {% endfor %}
 <br><br><br><br><br><br><br><br><br><br><br><br>
         <h2>MIT Reference materials</h2>
-        {% for resource in site.data.course-material.MIT_Reference materials %}
+        {% for resource in site.data.course-material.MIT_Reference_materials %}
         <div class="Course-materual--image-cover-container">
             <img src="{{ resource.pic | prepend: site.baseurl }}" class="Course-material--image-cover">
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
