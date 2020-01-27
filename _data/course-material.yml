@@ -17,12 +17,12 @@ main_resources:
       
 MIT_Reference materials:
   - name: Applied Cryptography 
-    pic: /_images/Course-material/SE4.png
-    address: http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf
-  - name: Software Engineering, Modern Approaches by Eric J. Braude and Michael E. Bernstein
-    pic: /_images/Course-material/SE5.png
-    address: https://epdf.pub/software-engineering-modern-approaches.html
-  - name: Engineering Software As A Service An Agile Approach Using Cloud Computing 
-    pic: /_images/Course-material/SE6.png
-    address: https://pdfs.semanticscholar.org/2025/ebbfe2097da9e19f552dd9fa0df6ebbe39dc.pdf
+    pic: /static_files/MIT_reference/1.jpg
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/MIT_reference/Applied-Cryptography.pdf
+  - name: Handbook of applied cryptography
+    pic: /static_files/MIT_reference/2.jpg
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/MIT_reference/[Alfred-Menezes,-Paul-van-Oorschot,-Scott-Vanstone.pdf
+  - name: Introduction to Cryptography 
+    pic: /static_files/MIT_reference/3.jpg
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/MIT_reference/[Johannes-Buchmann]-Introduction-to-Cryptography.pdf
 
