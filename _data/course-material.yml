@@ -16,7 +16,7 @@ main_resources:
     address: https://github.com/mahdi-javid/computer-systems-security/raw/master/download/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf
       
 MIT_Reference materials:
-  - name: Applied Cryptography
+  - name: Applied Cryptography 
     pic: /_images/Course-material/SE4.png
     address: http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf
   - name: Software Engineering, Modern Approaches by Eric J. Braude and Michael E. Bernstein
