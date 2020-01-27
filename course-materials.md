@@ -28,7 +28,9 @@ permalink: /course-materials/
 </div>
 
 
+
 <br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 <div style="width:100%; float: left">
@@ -42,6 +44,7 @@ permalink: /course-materials/
         {% endfor %}
     </div>
 </div>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
