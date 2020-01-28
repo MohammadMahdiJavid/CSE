@@ -90,6 +90,6 @@ permalink: /Coursepp/Stanford/1
         </ol>
     </li>
 </ol>
-
+<br><br><br>
 <h1>How to fake a fingerprint and break into a phone</h1>
 <div style="width: 100%;">    <div style="width: 100%; padding-top: 56.25%; position: relative;">        <iframe style="position: absolute; width: 100%; height: 100%; top: 0; right: 0; border: none" src="https://www.dideo.ir/pre_embed/v/yt/tj2Ty7WkGqk"                allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  allow="accelerometer; gyroscope; picture-in-picture; autoplay; fullscreen; encrypted-media" frameborder="0">        </iframe>    </div></div>
