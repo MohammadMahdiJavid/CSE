@@ -38,7 +38,10 @@ Oxford_Reading_list:
     address: https://github.com/mahdi-javid/CSE/raw/master/static_files/Ox/%5BCharlie-Kaufman%2C-Radia-Perlman%2C-Mike-Speciner%5D-Ne.chm
   - name: Computer Security Lecture Notes 2014 by Andrew Ker
     pic: /static_files/Ox/3.jpg
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/Ox/computersecurity-lecture-notes-mt2014.pdf
   - name: Cryptography Engineering Design Principles and Practical Applications
     pic: /static_files/Ox/4.jpg
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/Ox/%5BSchneier%2C-Bruce%2C-Kohno%2C-Tadayoshi%2C-Ferguson%2C-Niel.epub
   - name: Prudent Engineering Practice for Cryptographic Protocols 
     pic: /static_files/Ox/5.jpg
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/Ox/prudent.pdf
