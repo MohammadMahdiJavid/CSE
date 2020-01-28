@@ -62,6 +62,7 @@ permalink: /Coursepp/Stanford/1
             </li>
         </ol>
     </li>
+    <br><br>
     <li>
         Security of mobile platforms
         <ol>
@@ -73,6 +74,7 @@ permalink: /Coursepp/Stanford/1
             </li>
         </ol>
     </li>
+    <br><br>
     <li>
         Odds and ends
         <ol>
