@@ -29,3 +29,7 @@ MIT_Reference_materials:
     pic: /static_files/MIT_reference/3.jpg
     address: https://github.com/mahdi-javid/CSE/raw/master/static_files/MIT_reference/[Johannes-Buchmann]-Introduction-to-Cryptography.pdf
 
+Oxford_Reading_list:
+  - name: Computer Security
+    pic: /static_files/Ox/1.jpg
+    address: 
