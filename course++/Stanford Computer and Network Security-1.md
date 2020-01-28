@@ -5,6 +5,7 @@ permalink: /Coursepp/Stanford/1
 ---
 
 <big><big><big><center><a style="color: red;" href="https://cs155.stanford.edu/lectures/01-intro.pdf">Course overview</a></center></big></big></big>
+<br><br>
 <ol>
     <li>
         <big>Basics</big>
