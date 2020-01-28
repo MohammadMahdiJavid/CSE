@@ -32,4 +32,7 @@ MIT_Reference_materials:
 Oxford_Reading_list:
   - name: Computer Security
     pic: /static_files/Ox/1.jpg
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/Ox/%5BDieter-Gollmann%5D-Computer-Security.pdf
+  - name: Network Security Private Communication in a Public World
+    pic: /static_files/Ox/2.jpg
     address: 
