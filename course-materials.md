@@ -49,7 +49,20 @@ permalink: /course-materials/
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
+<div style="width:100%; float: left">
+    <div class="Course-material-pic-gallary">
+        <h2>Oxford Reading List</h2>
+        {% for resource in site.data.course-material.Oxford_Reading_list %}
+        <div class="Course-materual--image-cover-container">
+            <img src="{{ resource.pic | prepend: site.baseurl }}" class="Course-material--image-cover">
+            <p><a href="{{resource.address}}">{{resource.name}}</a></p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
