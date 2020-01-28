@@ -16,7 +16,7 @@ main_resources:
     address: https://github.com/mahdi-javid/computer-systems-security/raw/master/download/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf
   - name: Network Security Bible (2nd Ed)
     pic: /_images/Course-material/NetworkSecurityBible.jpg
-    address: 
+    address: https://github.com/mahdi-javid/CSE/raw/master/download/%5BEric-Cole%5D-Network-Security-Bible-(2nd-Ed.).pdf
 
 MIT_Reference_materials:
   - name: Applied Cryptography 
