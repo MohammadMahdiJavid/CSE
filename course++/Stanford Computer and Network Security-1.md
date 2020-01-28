@@ -7,7 +7,7 @@ permalink: /Coursepp/Stanford/1
 <big><big><big><center><a style="color: red;" href="https://cs155.stanford.edu/lectures/01-intro.pdf">Course overview</a></center></big></big></big>
 <ol>
     <li>
-        Basics
+        <big>Basics</big>
         <ol>
             <li>
                 <a href="https://cs155.stanford.edu/lectures/02-ctrl-hijacking.pdf">Control hijacking attacks: exploits</a>
@@ -28,7 +28,7 @@ permalink: /Coursepp/Stanford/1
     </li>
 <br><br>
     <li>
-        Web Security
+        <big>Web Security</big>
         <ol>
             <li>
                 <a href="https://cs155.stanford.edu/lectures/08-web.pdf">Basic web security model</a>
@@ -49,7 +49,7 @@ permalink: /Coursepp/Stanford/1
     </li>
 <br><br>
     <li>
-        Network security
+        <big>Network security</big>
         <ol>
             <li>
                 <a href="https://cs155.stanford.edu/lectures/13-internet-protocols.pdf">Internet Protocol Security</a><br><a href="https://cs155.stanford.edu/lectures/13-internet-protocols.key">Key</a>
@@ -64,7 +64,7 @@ permalink: /Coursepp/Stanford/1
     </li>
     <br><br>
     <li>
-        Security of mobile platforms
+        <big>Security of mobile platforms</big>
         <ol>
             <li>
                 <a href="https://cs155.stanford.edu/lectures/16-net-cors-mobile.pdf">Android and iOS: mobile platform security architecture</a><br><a href="https://cs155.stanford.edu/lectures/16-net-cors-mobile.key">Key</a>
@@ -76,7 +76,7 @@ permalink: /Coursepp/Stanford/1
     </li>
     <br><br>
     <li>
-        Odds and ends
+        <big>Odds and ends</big>
         <ol>
             <li>
                 <a href="https://cs155.stanford.edu/lectures/17-processor.pdf">Processor security: Intel SGX and the Spectre attack</a>
