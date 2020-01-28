@@ -35,4 +35,11 @@ Oxford_Reading_list:
     address: https://github.com/mahdi-javid/CSE/raw/master/static_files/Ox/%5BDieter-Gollmann%5D-Computer-Security.pdf
   - name: Network Security Private Communication in a Public World
     pic: /static_files/Ox/2.jpg
-    address: 
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/Ox/%5BCharlie-Kaufman%2C-Radia-Perlman%2C-Mike-Speciner%5D-Ne.chm
+  - name: Computer Security Lecture Notes 2014 by Andrew Ker
+    pic: /static_files/Ox/3.jpg
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/Ox/%5BCharlie-Kaufman%2C-Radia-Perlman%2C-Mike-Speciner%5D-Ne.chm
+  - name: munication in a Public World
+    pic: /static_files/Ox/2.jpg
+    address: https://github.com/mahdi-javid/CSE/raw/master/static_files/Ox/%5BCharlie-Kaufman%2C-Radia-Perlman%2C-Mike-Speciner%5D-Ne.chm
+      
