@@ -27,6 +27,23 @@ permalink: /Coursepp/Stanford/1
         </ol>
     </li>
     <li>
-        
+        Web Security
+        <ol>
+            <li>
+                <a href="https://cs155.stanford.edu/lectures/08-web.pdf">Basic web security model</a>
+            </li>
+            <li>
+                <a href="https://cs155.stanford.edu/lectures/09-web-attacks.pdf">Web application security</a>
+            </li>
+            <li>
+                <a href="https://cs155.stanford.edu/lectures/07-crypto.pdf">Overview of cryptography</a>
+            </li>
+            <li>
+                <a href="https://cs155.stanford.edu/lectures/12-https.pdf">HTTPS: goals and pitfalls</a>
+            </li>
+            <li>
+                <a href="https://cs155.stanford.edu/lectures/10-SessionMgmt.pdf">Authenticating users on the Web</a>
+            </li>
+        </ol>
     </li>
 </ol>
