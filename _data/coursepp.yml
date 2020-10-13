@@ -1,7 +1,7 @@
 Universities:
   - name: MIT Computer Systems Security
     pic: /_images/Coursepp-images/MIT-Computer Systems Security.jpg
-    address: https://mahdi-javid.github.io/CSE/Coursepp/MITComputerSystemsSecurity/1
+    address: /MITComputerSystemsSecurity/1
   - name: Stanford Computer and Network Security
     pic: /_images/Coursepp-images/Stanford.png
-    address: https://mahdi-javid.github.io/CSE/Coursepp/Stanford/1
+    address: /Stanford/1
